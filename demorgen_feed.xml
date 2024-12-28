@@ -1,154 +1,168 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>DM: Archive Feed</title>
-    <link>https://archive.is/demorgen.be</link>
-    <description>DeMorgen.be articles archived on archive.is</description>
-    <copyright>Archive.is Feed Generator</copyright>
+    <title>De Morgen RSS Feed</title>
+    <link>https://www.demorgen.be</link>
+    <description>Latest articles from De Morgen</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
       <url>https://www.demorgen.be/static/apple-touch-icon-144x144.png</url>
-      <title>DM: Archive Feed</title>
-      <link>https://archive.is/demorgen.be</link>
-      <width>144</width>
-      <height>144</height>
+      <title>De Morgen RSS Feed</title>
+      <link>https://www.demorgen.be</link>
     </image>
-    <language>nl-NL</language>
-    <lastBuildDate>Sat, 28 Dec 2024 17:54:32 +0100</lastBuildDate>
-    <pubDate>Sat, 28 Dec 2024 17:54:32 +0100</pubDate>
+    <language>nl</language>
+    <lastBuildDate>Sat, 28 Dec 2024 18:07:01 +0100</lastBuildDate>
+    <pubDate>Sat, 28 Dec 2024 18:07:01 +0100</pubDate>
     <item>
-      <title>Nieuws</title>
-      <link>https://archive.is/T4TNY</link>
-      <description>&lt;img src="https://archive.is/qaEAb/da3784b038b7923fe6501020dc38f9ae74157c20/thumb.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;Original article: https://demorgen.be/</description>
-      <guid isPermaLink="false">T4TNY</guid>
-      <pubDate>Sat, 28 Dec 2024 17:54:32 +0100</pubDate>
+      <title>Geschrokken sprong ik achteruit. ‘Je bent bestolen’, schreeuwde ze. Jaja, dacht ik</title>
+      <link>https://archive.is/o/6Gvhh/https://www.demorgen.be/meningen/geschrokken-sprong-ik-achteruit-je-bent-bestolen-schreeuwde-ze-jaja-dacht-ik~b7490e0e4/</link>
+      <description>&lt;img src="https://www.demorgen.be/static/apple-touch-icon-144x144.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;Original article: Original article: https://archive.is/o/6Gvhh/https://www.demorgen.be/meningen/geschrokken-sprong-ik-achteruit-je-bent-bestolen-schreeuwde-ze-jaja-dacht-ik~b7490e0e4/</description>
+      <pubDate>Sat, 28 Dec 2024 18:07:01 +0100</pubDate>
     </item>
     <item>
-      <title>Het koninklijke trio van de Franse literatuur: ‘Ik vind seks een van de minst belangrijke, minst betekenisvolle menselijke activiteiten’</title>
-      <link>https://archive.is/ae9l5</link>
-      <description>&lt;img src="https://archive.is/ae9l5/b059e38bcd8eac7b963c0dfcfc6049cdd44fc630/thumb.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;Original article: https://demorgen.be/tv-cultuur/het-koninklijke-trio-van-de-franse-literatuur-ik-vind-seks-een-van-de-minst-belangrijke-minst-betekenisvolle-menselijke-activiteiten~bda41e65/</description>
-      <guid isPermaLink="false">ae9l5</guid>
-      <pubDate>Sat, 28 Dec 2024 17:54:32 +0100</pubDate>
+      <title>Anderlecht zonder Patris en vertrekkende Dupé, Brian Riemer: ‘Alle vertrouwen in ‘Neerpede-boy’ Bouchouari’</title>
+      <link>https://archive.is/o/6Gvhh/https://www.demorgen.be/sport/anderlecht-zonder-patris-en-vertrekkende-dupe-brian-riemer-alle-vertrouwen-in-neerpede-boy-bouchouari~be53733a/</link>
+      <description>&lt;img src="https://www.demorgen.be/static/apple-touch-icon-144x144.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;Original article: Original article: https://archive.is/o/6Gvhh/https://www.demorgen.be/sport/anderlecht-zonder-patris-en-vertrekkende-dupe-brian-riemer-alle-vertrouwen-in-neerpede-boy-bouchouari~be53733a/</description>
+      <pubDate>Sat, 28 Dec 2024 18:07:01 +0100</pubDate>
     </item>
     <item>
-      <title>Grootouders zonder kleinkinderen: ‘We beseffen dat we vrijer zijn, maar het gemis blijft wringen’</title>
-      <link>https://archive.is/8J5sK</link>
-      <description>&lt;img src="https://archive.is/8J5sK/ee0c10cbb3b19ea5d9a1cac98d6c957a9590608f/thumb.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;Original article: https://demorgen.be/beter-leven/het-gemis-dat-blijft-knagen-ik-ga-nooit-oma-worden-maar-dat-oude-speelgoed-blijft-op-zolder-staan~bf565e11/</description>
-      <guid isPermaLink="false">8J5sK</guid>
-      <pubDate>Sat, 28 Dec 2024 17:54:32 +0100</pubDate>
+      <title>Belgenmop in Molenbeek: ‘De opwarming was zwaarder dan de match zelf’</title>
+      <link>https://archive.is/o/6Gvhh/https://www.demorgen.be/sport/belgenmop-in-molenbeek-de-opwarming-was-zwaarder-dan-de-match-zelf~b5681d44/</link>
+      <description>&lt;img src="https://www.demorgen.be/static/apple-touch-icon-144x144.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;Original article: Original article: https://archive.is/o/6Gvhh/https://www.demorgen.be/sport/belgenmop-in-molenbeek-de-opwarming-was-zwaarder-dan-de-match-zelf~b5681d44/</description>
+      <pubDate>Sat, 28 Dec 2024 18:07:01 +0100</pubDate>
     </item>
     <item>
-      <title>‘Mijn affaire zorgde voor een erotische renaissance binnen mijn lange relatie’</title>
-      <link>https://archive.is/08rfk</link>
-      <description>&lt;img src="https://archive.is/08rfk/e8c1475cdfce27cef1d5e6ae2ce45c5d16e5278e/thumb.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;Original article: https://demorgen.be/beter-leven/mijn-affaire-zorgde-voor-een-erotische-renaissance-binnen-mijn-lange-relatie~b73847d5/</description>
-      <guid isPermaLink="false">08rfk</guid>
-      <pubDate>Sat, 28 Dec 2024 17:54:32 +0100</pubDate>
+      <title>▶ Schendt Israël het Genocideverdrag? ‘De positie die België heeft ingenomen, is van essentieel belang’</title>
+      <link>https://archive.is/o/6Gvhh/https://www.demorgen.be/podcasts/schendt-israel-het-genocideverdrag-de-positie-die-belgie-heeft-ingenomen-is-van-essentieel-belang~b8e7ae52/</link>
+      <description>&lt;img src="https://www.demorgen.be/static/apple-touch-icon-144x144.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;Original article: Original article: https://archive.is/o/6Gvhh/https://www.demorgen.be/podcasts/schendt-israel-het-genocideverdrag-de-positie-die-belgie-heeft-ingenomen-is-van-essentieel-belang~b8e7ae52/</description>
+      <pubDate>Sat, 28 Dec 2024 18:07:01 +0100</pubDate>
     </item>
     <item>
-      <title>Apothekers bevelen homeopathische middeltjes aan: mag dat wel?</title>
-      <link>https://archive.is/Kq5uM</link>
-      <description>&lt;img src="https://archive.is/Kq5uM/ac1e69f2bebfb3822f534eb9fd2e8499bd0b87a7/thumb.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;Original article: https://demorgen.be/beter-leven/apothekers-bevelen-homeopathische-middeltjes-aan-mag-dat-wel~bf722b82/</description>
-      <guid isPermaLink="false">Kq5uM</guid>
-      <pubDate>Sat, 28 Dec 2024 17:54:32 +0100</pubDate>
+      <title>Grote studie ‘The Lancet’: per jaar dat je voltijds studeert, daalt je sterfterisico met 2 procent</title>
+      <link>https://archive.is/o/6Gvhh/https://www.demorgen.be/nieuws/grote-studie-the-lancet-per-jaar-dat-je-voltijds-studeert-daalt-je-sterfterisico-met-2-procent~b7922157/</link>
+      <description>&lt;img src="https://www.demorgen.be/static/apple-touch-icon-144x144.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;Original article: Original article: https://archive.is/o/6Gvhh/https://www.demorgen.be/nieuws/grote-studie-the-lancet-per-jaar-dat-je-voltijds-studeert-daalt-je-sterfterisico-met-2-procent~b7922157/</description>
+      <pubDate>Sat, 28 Dec 2024 18:07:01 +0100</pubDate>
     </item>
     <item>
-      <title>Een blaasontsteking kan flinke impact hebben: hoe voorkom je zo’n infectie?</title>
-      <link>https://archive.is/fHLYA</link>
-      <description>&lt;img src="https://archive.is/fHLYA/6f54c6c2da195d5d26ab4077493ac1f4735a5809/thumb.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;Original article: https://demorgen.be/beter-leven/een-blaasontsteking-kan-flinke-impact-hebben-hoe-voorkom-je-zo-n-infectie~b9e83da1/</description>
-      <guid isPermaLink="false">fHLYA</guid>
-      <pubDate>Sat, 28 Dec 2024 17:54:32 +0100</pubDate>
+      <title>Na het schrappen van E3 voor vrouwen: waarom het vrouwenwielrennen last heeft van groeipijnen</title>
+      <link>https://archive.is/o/6Gvhh/https://www.demorgen.be/sport/na-het-schrappen-van-e3-voor-vrouwen-waarom-het-vrouwenwielrennen-last-heeft-van-groeipijnen~b90d1fc2f/</link>
+      <description>&lt;img src="https://www.demorgen.be/static/apple-touch-icon-144x144.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;Original article: Original article: https://archive.is/o/6Gvhh/https://www.demorgen.be/sport/na-het-schrappen-van-e3-voor-vrouwen-waarom-het-vrouwenwielrennen-last-heeft-van-groeipijnen~b90d1fc2f/</description>
+      <pubDate>Sat, 28 Dec 2024 18:07:01 +0100</pubDate>
     </item>
     <item>
-      <title>Over het kluwen dat Syrië is, moet u eigenlijk maar één ding weten: Assad is het grote kwaad</title>
-      <link>https://archive.is/Z0lZF</link>
-      <description>&lt;img src="https://archive.is/Z0lZF/32dc84e635010f267f48375c1a4e9457c9a69142/thumb.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;Original article: https://demorgen.be/meningen/over-het-kluwen-dat-syrie-is-moet-u-eigenlijk-maar-een-ding-weten-assad-is-het-grote-kwaad~bac45562/</description>
-      <guid isPermaLink="false">Z0lZF</guid>
-      <pubDate>Sat, 28 Dec 2024 17:54:32 +0100</pubDate>
+      <title>Fox News opnieuw voor de rechter voor laster rond verkiezingen</title>
+      <link>https://archive.is/o/6Gvhh/https://www.demorgen.be/snelnieuws/fox-news-opnieuw-voor-de-rechter-voor-laster-rond-verkiezingen~b5c8bf9b/</link>
+      <description>&lt;img src="https://www.demorgen.be/static/apple-touch-icon-144x144.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;Original article: Original article: https://archive.is/o/6Gvhh/https://www.demorgen.be/snelnieuws/fox-news-opnieuw-voor-de-rechter-voor-laster-rond-verkiezingen~b5c8bf9b/</description>
+      <pubDate>Sat, 28 Dec 2024 18:07:01 +0100</pubDate>
     </item>
     <item>
-      <title>Diëtist Michaël Sels uit ‘De grote boodschap’: ‘Mensen lopen soms jaren met diarree rond’</title>
-      <link>https://archive.is/DXDNt</link>
-      <description>&lt;img src="https://archive.is/DXDNt/488c0dd437346824be4bb9e6fa0fe1294827b8cb/thumb.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;Original article: https://demorgen.be/beter-leven/dietist-michael-sels-uit-de-grote-boodschap-mensen-lopen-soms-jaren-met-diarree-rond~bec39dfa/</description>
-      <guid isPermaLink="false">DXDNt</guid>
-      <pubDate>Sat, 28 Dec 2024 17:54:32 +0100</pubDate>
+      <title>Biden dringt bij Congres aan op verkoop F-16's aan Turkije</title>
+      <link>https://archive.is/o/6Gvhh/https://www.demorgen.be/snelnieuws/biden-dringt-bij-congres-aan-op-verkoop-f-16-s-aan-turkije~b706b5ea/</link>
+      <description>&lt;img src="https://www.demorgen.be/static/apple-touch-icon-144x144.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;Original article: Original article: https://archive.is/o/6Gvhh/https://www.demorgen.be/snelnieuws/biden-dringt-bij-congres-aan-op-verkoop-f-16-s-aan-turkije~b706b5ea/</description>
+      <pubDate>Sat, 28 Dec 2024 18:07:01 +0100</pubDate>
     </item>
     <item>
-      <title>Lager leefloon met ‘voedselcheques’ ligt op tafel van De Wever</title>
-      <link>https://archive.is/8HR3O</link>
-      <description>&lt;img src="https://archive.is/8HR3O/2c4d7231dab8c99465d33cb2c66873300230f8fe/thumb.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;Original article: https://demorgen.be/nieuws/lager-leefloon-met-voedselcheques-ligt-op-tafel-van-de-wever~b1881539/</description>
-      <guid isPermaLink="false">8HR3O</guid>
-      <pubDate>Sat, 28 Dec 2024 17:54:32 +0100</pubDate>
+      <title>ECB houdt vrijwel zeker derde rentepauze</title>
+      <link>https://archive.is/o/6Gvhh/https://www.demorgen.be/snelnieuws/ecb-houdt-vrijwel-zeker-derde-rentepauze~b7ce7cdc/</link>
+      <description>&lt;img src="https://www.demorgen.be/static/apple-touch-icon-144x144.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;Original article: Original article: https://archive.is/o/6Gvhh/https://www.demorgen.be/snelnieuws/ecb-houdt-vrijwel-zeker-derde-rentepauze~b7ce7cdc/</description>
+      <pubDate>Sat, 28 Dec 2024 18:07:01 +0100</pubDate>
     </item>
     <item>
-      <title>Wat is er gaande in Zuid-Korea? ‘De tegenstanders van president Yoon stonden op het punt hem een zware slag toe te brengen’</title>
-      <link>https://archive.is/xQ3bg</link>
-      <description>&lt;img src="https://archive.is/xQ3bg/3f59693cec2d2447a363fc004a3615b8a7ffa37a/thumb.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;Original article: https://demorgen.be/nieuws/wat-is-er-gaande-in-zuid-korea-de-tegenstanders-van-president-yoon-stonden-op-het-punt-hem-een-zware-slag-toe-te-brengen~b068f9d9/</description>
-      <guid isPermaLink="false">xQ3bg</guid>
-      <pubDate>Sat, 28 Dec 2024 17:54:32 +0100</pubDate>
+      <title>Doodstraf voor man die Japanse animatiestudio in brand stak</title>
+      <link>https://archive.is/o/6Gvhh/https://www.demorgen.be/snelnieuws/doodstraf-voor-man-die-japanse-animatiestudio-in-brand-stak~b9fb88d5/</link>
+      <description>&lt;img src="https://www.demorgen.be/static/apple-touch-icon-144x144.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;Original article: Original article: https://archive.is/o/6Gvhh/https://www.demorgen.be/snelnieuws/doodstraf-voor-man-die-japanse-animatiestudio-in-brand-stak~b9fb88d5/</description>
+      <pubDate>Sat, 28 Dec 2024 18:07:01 +0100</pubDate>
     </item>
     <item>
-      <title>‘Ik vrees dat alle menslievende mechanismen die we hebben opgebouwd op de helling staan’</title>
-      <link>https://archive.is/EJtZK</link>
-      <description>&lt;img src="https://archive.is/EJtZK/1e54e645c2d0384e7001da5c0fc665894843dce1/thumb.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;Original article: https://demorgen.be/nieuws/ik-vrees-dat-alle-menslievende-mechanismen-die-we-hebben-opgebouwd-op-de-helling-staan~bda06787/</description>
-      <guid isPermaLink="false">EJtZK</guid>
-      <pubDate>Sat, 28 Dec 2024 17:54:32 +0100</pubDate>
+      <title>Zware ochtendspits verwacht op E314 richting Leuven en Brussel door aanleg spitsstrook</title>
+      <link>https://archive.is/o/6Gvhh/https://www.demorgen.be/snelnieuws/zware-ochtendspits-verwacht-op-e314-richting-leuven-en-brussel-door-aanleg-spitsstrook~b55905eb/</link>
+      <description>&lt;img src="https://www.demorgen.be/static/apple-touch-icon-144x144.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;Original article: Original article: https://archive.is/o/6Gvhh/https://www.demorgen.be/snelnieuws/zware-ochtendspits-verwacht-op-e314-richting-leuven-en-brussel-door-aanleg-spitsstrook~b55905eb/</description>
+      <pubDate>Sat, 28 Dec 2024 18:07:01 +0100</pubDate>
     </item>
     <item>
-      <title>Help, ik kan de familie van mijn partner niet uitstaan: ‘Vorig jaar was ik niet eens welkom’</title>
-      <link>https://archive.is/8wd1p</link>
-      <description>&lt;img src="https://archive.is/8wd1p/34faa6c03e149f70f6cc8b1109dc3a8967bacd08/thumb.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;Original article: https://demorgen.be/beter-leven/help-ik-kan-de-familie-van-mijn-partner-niet-uitstaan-vorig-jaar-was-ik-niet-eens-welkom~ba1df57d7/</description>
-      <guid isPermaLink="false">8wd1p</guid>
-      <pubDate>Sat, 28 Dec 2024 17:54:32 +0100</pubDate>
+      <title>Doremi, Zonnestraal en Zonnekind verdwijnen: nieuwe uitgeverij stopt na dit schooljaar met papieren tijdschriften</title>
+      <link>https://archive.is/o/6Gvhh/https://www.demorgen.be/snelnieuws/doremi-zonnestraal-en-zonnekind-verdwijnen-nieuwe-uitgeverij-stopt-na-dit-schooljaar-met-papieren-tijdschriften~bbcc9fe8/</link>
+      <description>&lt;img src="https://www.demorgen.be/static/apple-touch-icon-144x144.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;Original article: Original article: https://archive.is/o/6Gvhh/https://www.demorgen.be/snelnieuws/doremi-zonnestraal-en-zonnekind-verdwijnen-nieuwe-uitgeverij-stopt-na-dit-schooljaar-met-papieren-tijdschriften~bbcc9fe8/</description>
+      <pubDate>Sat, 28 Dec 2024 18:07:01 +0100</pubDate>
     </item>
     <item>
-      <title>Dit zijn de 20 beste albums van 2024 volgens De Morgen</title>
-      <link>https://archive.is/eARLt</link>
-      <description>&lt;img src="https://archive.is/eARLt/a9582d319247de1c80f240d77ddab837dac1484a/thumb.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;Original article: https://demorgen.be/tv-cultuur/dit-zijn-de-20-beste-albums-van-2024-volgens-de-morgen~bda4f3e9/</description>
-      <guid isPermaLink="false">eARLt</guid>
-      <pubDate>Sat, 28 Dec 2024 17:54:32 +0100</pubDate>
+      <title>In de Verenigde Staten wordt vandaag de eerste doodstraf met stikstof uitgevoerd</title>
+      <link>https://archive.is/o/6Gvhh/https://www.demorgen.be/snelnieuws/in-de-verenigde-staten-wordt-vandaag-de-eerste-doodstraf-met-stikstof-uitgevoerd~b265f5a9/</link>
+      <description>&lt;img src="https://www.demorgen.be/static/apple-touch-icon-144x144.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;Original article: Original article: https://archive.is/o/6Gvhh/https://www.demorgen.be/snelnieuws/in-de-verenigde-staten-wordt-vandaag-de-eerste-doodstraf-met-stikstof-uitgevoerd~b265f5a9/</description>
+      <pubDate>Sat, 28 Dec 2024 18:07:01 +0100</pubDate>
     </item>
     <item>
-      <title>‘Voorstellen als dit komen uit de mond van iemand die 10.000 euro per maand verdient’: sociale huurders aan het woord</title>
-      <link>https://archive.is/p3f0u</link>
-      <description>&lt;img src="https://archive.is/p3f0u/da836f83367fdea0370ac508c4e7e1d41000dd63/thumb.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;Original article: https://demorgen.be/nieuws/voorstellen-als-dit-komen-uit-de-mond-van-iemand-die-10-000-euro-per-maand-verdient-sociale-huurders-aan-het-woord~bc5d9cda/</description>
-      <guid isPermaLink="false">p3f0u</guid>
-      <pubDate>Sat, 28 Dec 2024 17:54:32 +0100</pubDate>
+      <title>Japans ruimteagentschap deelt eerste beelden van maanmissie: maanlander landde slechts 55 meter van doel</title>
+      <link>https://archive.is/o/6Gvhh/https://www.demorgen.be/snelnieuws/japans-ruimteagentschap-deelt-eerste-beelden-van-maanmissie-maanlander-landde-slechts-55-meter-van-doel~bfa999b5/</link>
+      <description>&lt;img src="https://www.demorgen.be/static/apple-touch-icon-144x144.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;Original article: Original article: https://archive.is/o/6Gvhh/https://www.demorgen.be/snelnieuws/japans-ruimteagentschap-deelt-eerste-beelden-van-maanmissie-maanlander-landde-slechts-55-meter-van-doel~bfa999b5/</description>
+      <pubDate>Sat, 28 Dec 2024 18:07:01 +0100</pubDate>
     </item>
     <item>
-      <title>Noord-Koreaanse overlopers waarschuwen: ‘Het maakt hen echt niet uit hoeveel soldaten er sneuvelen in Koersk’</title>
-      <link>https://archive.is/52MkN</link>
-      <description>&lt;img src="https://archive.is/52MkN/5a68fd79429edd70b5e9227a445807001785b4be/thumb.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;Original article: https://demorgen.be/nieuws/noord-koreaanse-overlopers-waarschuwen-het-maakt-hen-echt-niet-uit-hoeveel-soldaten-er-sneuvelen-in-koersk~b4667191</description>
-      <guid isPermaLink="false">52MkN</guid>
-      <pubDate>Sat, 28 Dec 2024 17:54:32 +0100</pubDate>
+      <title>Rechtbank beveelt voorwaardelijke vrijlating van Josef Fritzl (88): overplaatsing naar normale gevangenis</title>
+      <link>https://archive.is/o/6Gvhh/https://www.demorgen.be/snelnieuws/rechtbank-beveelt-voorwaardelijke-vrijlating-van-josef-fritzl-88-overplaatsing-naar-normale-gevangenis~b0e00cab/</link>
+      <description>&lt;img src="https://www.demorgen.be/static/apple-touch-icon-144x144.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;Original article: Original article: https://archive.is/o/6Gvhh/https://www.demorgen.be/snelnieuws/rechtbank-beveelt-voorwaardelijke-vrijlating-van-josef-fritzl-88-overplaatsing-naar-normale-gevangenis~b0e00cab/</description>
+      <pubDate>Sat, 28 Dec 2024 18:07:01 +0100</pubDate>
     </item>
     <item>
-      <title>Na de expliciete steun voor radicaal-rechts in Europa: ‘Dat Musk X voor zijn eigen politieke mening inzet is gevaarlijk’</title>
-      <link>https://archive.is/ITSRH</link>
-      <description>&lt;img src="https://archive.is/ITSRH/8a42ec45f63036ab88e609924fa2e8f8652f7176/thumb.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;Original article: https://demorgen.be/nieuws/na-de-expliciete-steun-voor-radicaal-rechts-in-europa-dat-musk-x-voor-zijn-eigen-politieke-mening-inzet-is-gevaarlijk~bb1fe9c2/</description>
-      <guid isPermaLink="false">ITSRH</guid>
-      <pubDate>Sat, 28 Dec 2024 17:54:32 +0100</pubDate>
+      <title>The Smile steekt moederschip Radiohead naar de kroon ★★★★★</title>
+      <link>https://archive.is/o/6Gvhh/https://www.demorgen.be/tv-cultuur/the-smile-steekt-moederschip-radiohead-naar-de-kroon~bfe0c32a2/</link>
+      <description>&lt;img src="https://www.demorgen.be/static/apple-touch-icon-144x144.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;Original article: Original article: https://archive.is/o/6Gvhh/https://www.demorgen.be/tv-cultuur/the-smile-steekt-moederschip-radiohead-naar-de-kroon~bfe0c32a2/</description>
+      <pubDate>Sat, 28 Dec 2024 18:07:01 +0100</pubDate>
     </item>
     <item>
-      <title>Trump aast op Canada, Groenland en Panama: wat zit er achter zijn uitspraken?</title>
-      <link>https://archive.is/2AYu0</link>
-      <description>&lt;img src="https://archive.is/2AYu0/ccb1178efa0ebf0dd63c94d4af2625c8fcab16b4/thumb.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;Original article: https://demorgen.be/nieuws/trump-aast-op-canada-groenland-en-panama-wat-zit-er-achter-zijn-uitspraken~bbeae806/</description>
-      <guid isPermaLink="false">2AYu0</guid>
-      <pubDate>Sat, 28 Dec 2024 17:54:32 +0100</pubDate>
+      <title>Eigen woning is steeds meer een verre droom, zeker als ook de Nederlanders de weg naar ons land vinden</title>
+      <link>https://archive.is/o/6Gvhh/https://www.demorgen.be/ons-geld/eigen-woning-is-steeds-meer-een-verre-droom-zeker-als-ook-de-nederlanders-de-weg-naar-ons-land-vinden~b08f80cc/</link>
+      <description>&lt;img src="https://www.demorgen.be/static/apple-touch-icon-144x144.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;Original article: Original article: https://archive.is/o/6Gvhh/https://www.demorgen.be/ons-geld/eigen-woning-is-steeds-meer-een-verre-droom-zeker-als-ook-de-nederlanders-de-weg-naar-ons-land-vinden~b08f80cc/</description>
+      <pubDate>Sat, 28 Dec 2024 18:07:01 +0100</pubDate>
     </item>
     <item>
-      <title>‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’: Selien De Schryder en Koen Schoors maken de staat op van de economie</title>
-      <link>https://archive.is/4fmmE</link>
-      <description>&lt;img src="https://archive.is/4fmmE/5ebc02451f666807874e2f2b59fd7faf35dd65a7/thumb.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;Original article: https://demorgen.be/nieuws/als-trump-echt-meer-olie-gaat-oppompen-is-het-binnen-een-maand-gedaan-met-poetin-selien-de-schryder-en-koen-schoors-maken-de-staat-op-van-de-economie~b3451420/</description>
-      <guid isPermaLink="false">4fmmE</guid>
-      <pubDate>Sat, 28 Dec 2024 17:54:32 +0100</pubDate>
+      <title>Doe-het-zelfketen Brico staat in de etalage: keten zou al hele tijd te koop staan</title>
+      <link>https://archive.is/o/6Gvhh/https://www.demorgen.be/snelnieuws/doe-het-zelfketen-brico-staat-in-de-etalage-keten-zou-al-hele-tijd-te-koop-staan~b0ec81ac/</link>
+      <description>&lt;img src="https://www.demorgen.be/static/apple-touch-icon-144x144.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;Original article: Original article: https://archive.is/o/6Gvhh/https://www.demorgen.be/snelnieuws/doe-het-zelfketen-brico-staat-in-de-etalage-keten-zou-al-hele-tijd-te-koop-staan~b0ec81ac/</description>
+      <pubDate>Sat, 28 Dec 2024 18:07:01 +0100</pubDate>
     </item>
     <item>
-      <title>‘Het blijft heerlijk walgen van de elite in ‘Knokke Off’’: lees de recap van aflevering 4</title>
-      <link>https://archive.is/crFJC</link>
-      <description>&lt;img src="https://archive.is/crFJC/bf081bc9bc44a4ed5b85decb70ee0c7336977b4f/thumb.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;Original article: https://demorgen.be/tv-cultuur/het-blijft-heerlijk-walgen-van-de-elite-in-knokke-off-lees-de-recap-van-aflevering-4~b3b452b6/</description>
-      <guid isPermaLink="false">crFJC</guid>
-      <pubDate>Sat, 28 Dec 2024 17:54:32 +0100</pubDate>
+      <title>Lezersoproep. Wat hebben tijdschriften als Zonnekind en Doremi voor u of voor uw kind betekend?</title>
+      <link>https://archive.is/o/6Gvhh/https://www.demorgen.be/snelnieuws/lezersoproep-wat-hebben-tijdschriften-als-zonnekind-en-doremi-voor-u-of-voor-uw-kind-betekend~b03e8e1b/</link>
+      <description>&lt;img src="https://www.demorgen.be/static/apple-touch-icon-144x144.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;Original article: Original article: https://archive.is/o/6Gvhh/https://www.demorgen.be/snelnieuws/lezersoproep-wat-hebben-tijdschriften-als-zonnekind-en-doremi-voor-u-of-voor-uw-kind-betekend~b03e8e1b/</description>
+      <pubDate>Sat, 28 Dec 2024 18:07:01 +0100</pubDate>
+    </item>
+    <item>
+      <title>Schokkende beelden van politie-interventie, maar of het tot een proces komt is niet zeker: hierover gaat de zaak-Chovanec</title>
+      <link>https://archive.is/o/6Gvhh/https://www.demorgen.be/nieuws/schokkende-beelden-van-politie-interventie-maar-of-het-tot-een-proces-komt-is-niet-zeker-hierover-gaat-de-zaak-chovanec~b6fd30713/</link>
+      <description>&lt;img src="https://www.demorgen.be/static/apple-touch-icon-144x144.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;Original article: Original article: https://archive.is/o/6Gvhh/https://www.demorgen.be/nieuws/schokkende-beelden-van-politie-interventie-maar-of-het-tot-een-proces-komt-is-niet-zeker-hierover-gaat-de-zaak-chovanec~b6fd30713/</description>
+      <pubDate>Sat, 28 Dec 2024 18:07:01 +0100</pubDate>
+    </item>
+    <item>
+      <title>Live - Qatar ‘verantwoordelijk’ voor aanval op 7 oktober, zegt Israëlische minister • 50 Gazanen gedood bij aanvallen op Khan Younis</title>
+      <link>https://archive.is/o/6Gvhh/https://www.demorgen.be/snelnieuws/live-crisis-midden-oosten-qatar-verantwoordelijk-voor-aanval-op-7-oktober-zegt-israelische-minister-50-gazanen-gedood-bij-aanvallen-op-khan-younis~ba7f8873/</link>
+      <description>&lt;img src="https://www.demorgen.be/static/apple-touch-icon-144x144.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;Original article: Original article: https://archive.is/o/6Gvhh/https://www.demorgen.be/snelnieuws/live-crisis-midden-oosten-qatar-verantwoordelijk-voor-aanval-op-7-oktober-zegt-israelische-minister-50-gazanen-gedood-bij-aanvallen-op-khan-younis~ba7f8873/</description>
+      <pubDate>Sat, 28 Dec 2024 18:07:01 +0100</pubDate>
+    </item>
+    <item>
+      <title>Het Duitse massaprotest tegen de AfD kan een wake-upcall zijn voor onze politieke leiders, middenveldorganisaties en burgers</title>
+      <link>https://archive.is/o/6Gvhh/https://www.demorgen.be/meningen/het-duitse-massaprotest-tegen-de-afd-kan-een-wake-upcall-zijn-voor-onze-politieke-leiders-middenveldorganisaties-en-burgers~b3075ed1/</link>
+      <description>&lt;img src="https://www.demorgen.be/static/apple-touch-icon-144x144.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;Original article: Original article: https://archive.is/o/6Gvhh/https://www.demorgen.be/meningen/het-duitse-massaprotest-tegen-de-afd-kan-een-wake-upcall-zijn-voor-onze-politieke-leiders-middenveldorganisaties-en-burgers~b3075ed1/</description>
+      <pubDate>Sat, 28 Dec 2024 18:07:01 +0100</pubDate>
+    </item>
+    <item>
+      <title>Gasgeur Antwerpen grotendeels verdwenen, oorzaak nog onduidelijk: ‘Brandweerploegen meten geen gas’</title>
+      <link>https://archive.is/o/6Gvhh/https://www.demorgen.be/snelnieuws/gasgeur-antwerpen-grotendeels-verdwenen-oorzaak-nog-onduidelijk-brandweerploegen-meten-geen-gas~b5ea3f86/</link>
+      <description>&lt;img src="https://www.demorgen.be/static/apple-touch-icon-144x144.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;Original article: Original article: https://archive.is/o/6Gvhh/https://www.demorgen.be/snelnieuws/gasgeur-antwerpen-grotendeels-verdwenen-oorzaak-nog-onduidelijk-brandweerploegen-meten-geen-gas~b5ea3f86/</description>
+      <pubDate>Sat, 28 Dec 2024 18:07:01 +0100</pubDate>
+    </item>
+    <item>
+      <title>ECB laat rente voor derde keer op rij ongewijzigd op ongezien hoog tarief</title>
+      <link>https://archive.is/o/6Gvhh/https://www.demorgen.be/snelnieuws/ecb-laat-rente-voor-derde-keer-op-rij-ongewijzigd-op-ongezien-hoog-tarief~b996ae2b/</link>
+      <description>&lt;img src="https://www.demorgen.be/static/apple-touch-icon-144x144.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;Original article: Original article: https://archive.is/o/6Gvhh/https://www.demorgen.be/snelnieuws/ecb-laat-rente-voor-derde-keer-op-rij-ongewijzigd-op-ongezien-hoog-tarief~b996ae2b/</description>
+      <pubDate>Sat, 28 Dec 2024 18:07:01 +0100</pubDate>
+    </item>
+    <item>
+      <title>Musk bij presentatie tegenvallende kwartaalcijfers Tesla: Westen moet in actie komen tegen opkomst Chinese auto’s</title>
+      <link>https://archive.is/o/6Gvhh/https://www.demorgen.be/nieuws/musk-bij-presentatie-tegenvallende-kwartaalcijfers-tesla-westen-moet-in-actie-komen-tegen-opkomst-chinese-auto-s~b76bfecd/</link>
+      <description>&lt;img src="https://www.demorgen.be/static/apple-touch-icon-144x144.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;Original article: Original article: https://archive.is/o/6Gvhh/https://www.demorgen.be/nieuws/musk-bij-presentatie-tegenvallende-kwartaalcijfers-tesla-westen-moet-in-actie-komen-tegen-opkomst-chinese-auto-s~b76bfecd/</description>
+      <pubDate>Sat, 28 Dec 2024 18:07:01 +0100</pubDate>
     </item>
   </channel>
 </rss>
