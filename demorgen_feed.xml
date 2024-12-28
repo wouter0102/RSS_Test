@@ -1,132 +1,154 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>De Morgen Archive Feed</title>
-    <link>https://archive.is/www.demorgen.be</link>
-    <description>RSS feed van De Morgen artikelen via archive.is</description>
+    <title>DM: Archive Feed</title>
+    <link>https://archive.is/demorgen.be</link>
+    <description>DeMorgen.be articles archived on archive.is</description>
+    <copyright>Archive.is Feed Generator</copyright>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <language>nl</language>
-    <lastBuildDate>Sat, 28 Dec 2024 21:37:39 +0000</lastBuildDate>
+    <image>
+      <url>https://www.demorgen.be/static/apple-touch-icon-144x144.png</url>
+      <title>DM: Archive Feed</title>
+      <link>https://archive.is/demorgen.be</link>
+      <width>144</width>
+      <height>144</height>
+    </image>
+    <language>nl-NL</language>
+    <lastBuildDate>Sat, 28 Dec 2024 22:43:54 +0100</lastBuildDate>
+    <pubDate>Sat, 28 Dec 2024 22:43:54 +0100</pubDate>
     <item>
-      <title>‘Iemand wil deze onderhandelingen saboteren’: gelekte nota zet nieuwe Arizona-gesprekken meteen onder druk | De Morgen</title>
-      <link>https://archive.is/qGxbF</link>
-      <description>&lt;img src="https://archive.ishttps://archive.is/qGxbF/9bddd5536850ab3ed9881edd369f7e246ec8d4dd/thumb.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;&lt;p&gt;Original URL: https://www.demorgen.be/cs-bfb44796/&lt;/p&gt;&lt;p&gt;Archived on: 27 Dec 2024 20:48&lt;/p&gt;&lt;p&gt;&lt;a href="https://archive.is/qGxbF"&gt;View archived version&lt;/a&gt;&lt;/p&gt;</description>
-      <pubDate>Sat, 28 Dec 2024 16:19:22 +0100</pubDate>
-    </item>
-    <item>
-      <title>‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’: Selien De Schryder en Koen Schoors over de staat van de economie | De Morgen</title>
-      <link>https://archive.is/HU2zh</link>
-      <description>&lt;img src="https://archive.ishttps://archive.is/HU2zh/ea6ecf6f64e93c7b6e4d8ad9175946c4c48aac0f/thumb.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;&lt;p&gt;Original URL: https://www.demorgen.be/cs-b3451420/&lt;/p&gt;&lt;p&gt;Archived on: 27 Dec 2024 20:55&lt;/p&gt;&lt;p&gt;&lt;a href="https://archive.is/HU2zh"&gt;View archived version&lt;/a&gt;&lt;/p&gt;</description>
-      <pubDate>Sat, 28 Dec 2024 16:19:22 +0100</pubDate>
-    </item>
-    <item>
-      <title>Op kerstdag werd het op een bepaald moment zo stil als in een zen-retraite | De Morgen</title>
-      <link>https://archive.is/7V2Uq</link>
-      <description>&lt;img src="https://archive.ishttps://archive.is/7V2Uq/bd5af5354bd8d74a0e96e3b5966a029ffcb928f5/thumb.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;&lt;p&gt;Original URL: https://www.demorgen.be/meningen/op-kerstdag-werd-het-op-een-bepaald-moment-zo-stil-als-in-een-zen-retraite~bd7827f9/&lt;/p&gt;&lt;p&gt;Archived on: 27 Dec 2024 21:05&lt;/p&gt;&lt;p&gt;&lt;a href="https://archive.is/7V2Uq"&gt;View archived version&lt;/a&gt;&lt;/p&gt;</description>
-      <pubDate>Sat, 28 Dec 2024 16:19:22 +0100</pubDate>
-    </item>
-    <item>
-      <title>‘Als je wegrijdt na een ongeval neemt een bepaald instinct het over’: in het hoofd van de vluchtmisdrijver | De Morgen</title>
-      <link>https://archive.is/I0bSB</link>
-      <description>&lt;img src="https://archive.ishttps://archive.is/I0bSB/15bd559cc621ad7516e5176d1e9a75b031d1b487/thumb.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;&lt;p&gt;Original URL: https://www.demorgen.be/cs-b9e9127f/&lt;/p&gt;&lt;p&gt;Archived on: 27 Dec 2024 21:51&lt;/p&gt;&lt;p&gt;&lt;a href="https://archive.is/I0bSB"&gt;View archived version&lt;/a&gt;&lt;/p&gt;</description>
-      <pubDate>Sat, 28 Dec 2024 16:19:22 +0100</pubDate>
-    </item>
-    <item>
-      <title>De 15 beste restaurants van 2024 met een vriendelijke prijs | De Morgen</title>
-      <link>https://archive.is/aaWQE</link>
-      <description>&lt;img src="https://archive.ishttps://archive.is/aaWQE/95710a36f90e038e48d8ebecec9cb55dec9a8506/thumb.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;&lt;p&gt;Original URL: https://www.demorgen.be/koken-met-de-morgen/de-15-beste-restaurants-van-2024-met-een-vriendelijke-prijs~ba608353/&lt;/p&gt;&lt;p&gt;Archived on: 27 Dec 2024 23:57&lt;/p&gt;&lt;p&gt;&lt;a href="https://archive.is/aaWQE"&gt;View archived version&lt;/a&gt;&lt;/p&gt;</description>
-      <pubDate>Sat, 28 Dec 2024 16:19:22 +0100</pubDate>
-    </item>
-    <item>
-      <title>Waarom accepteren we wel dat een burgemeester preventief huisarrest oplegt aan minderjarige jongeren? | De Morgen</title>
-      <link>https://archive.is/pW5ui</link>
-      <description>&lt;img src="https://archive.ishttps://archive.is/pW5ui/0dea709445c59181390ac9cd221b5b58c3c206b5/thumb.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;&lt;p&gt;Original URL: https://www.demorgen.be/meningen/waarom-accepteren-we-wel-dat-een-burgemeester-preventief-huisarrest-oplegt-aan-minderjarige-jongeren~b884d379/&lt;/p&gt;&lt;p&gt;Archived on: 28 Dec 2024 07:41&lt;/p&gt;&lt;p&gt;&lt;a href="https://archive.is/pW5ui"&gt;View archived version&lt;/a&gt;&lt;/p&gt;</description>
-      <pubDate>Sat, 28 Dec 2024 16:19:22 +0100</pubDate>
-    </item>
-    <item>
-      <title>Beste Carl Devos, welke commentator was dit jaar hopeloos voorspelbaar? | De Morgen</title>
-      <link>https://archive.is/Sx9E0</link>
-      <description>&lt;img src="https://archive.ishttps://archive.is/Sx9E0/b6738cbff438aa9dfb9c423df13edf9b8e801cfc/thumb.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;&lt;p&gt;Original URL: https://www.demorgen.be/meningen/beste-carl-devos-wie-volgt-u-op-als-houder-van-de-wisselbeker-met-uw-naam~bc82375d&lt;/p&gt;&lt;p&gt;Archived on: 28 Dec 2024 07:44&lt;/p&gt;&lt;p&gt;&lt;a href="https://archive.is/Sx9E0"&gt;View archived version&lt;/a&gt;&lt;/p&gt;</description>
-      <pubDate>Sat, 28 Dec 2024 16:19:22 +0100</pubDate>
-    </item>
-    <item>
-      <title>Het moet verboden zijn om volksverlakkerij als ‘waardegedreven club van de gemeenschap’ op het voetbalvolkje los te laten | De Morgen</title>
-      <link>https://archive.is/bqMb1</link>
-      <description>&lt;img src="https://archive.ishttps://archive.is/bqMb1/7bf89d77eb4e52d80349cd401e49b084bc8e0f06/thumb.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;&lt;p&gt;Original URL: https://www.demorgen.be/meningen/het-moet-verboden-zijn-om-volksverlakkerij-als-waardegedreven-club-van-de-gemeenschap-op-het-voetbalvolkje-los-te-laten~b77690b1/&lt;/p&gt;&lt;p&gt;Archived on: 28 Dec 2024 07:54&lt;/p&gt;&lt;p&gt;&lt;a href="https://archive.is/bqMb1"&gt;View archived version&lt;/a&gt;&lt;/p&gt;</description>
-      <pubDate>Sat, 28 Dec 2024 16:19:22 +0100</pubDate>
-    </item>
-    <item>
-      <title>We moeten de angsten die we delen en die ons nog kunnen verenigen omarmen. Zij zijn nu een fundament van hoop | De Morgen</title>
-      <link>https://archive.is/IdUkK</link>
-      <description>&lt;img src="https://archive.ishttps://archive.is/IdUkK/c073fbd7dc3f3ae664de1ec2d7e0dbdfa01f1c4b/thumb.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;&lt;p&gt;Original URL: https://www.demorgen.be/meningen/we-moeten-de-angsten-die-we-delen-en-die-ons-nog-kunnen-verenigen-omarmen-zij-zijn-nu-een-fundament-van-hoop~bd8e20b9/&lt;/p&gt;&lt;p&gt;Archived on: 28 Dec 2024 08:21&lt;/p&gt;&lt;p&gt;&lt;a href="https://archive.is/IdUkK"&gt;View archived version&lt;/a&gt;&lt;/p&gt;</description>
-      <pubDate>Sat, 28 Dec 2024 16:19:22 +0100</pubDate>
-    </item>
-    <item>
-      <title>Liesbeth Van Impe verloor in 2024 de man die er altijd was voor haar: ‘Ik ben de laatste jaren goed geworden in rouwen’ | De Morgen</title>
-      <link>https://archive.is/GLsnj</link>
-      <description>&lt;img src="https://archive.ishttps://archive.is/GLsnj/4906bb75c30ff6c5e726b002d22889aae5be29a4/thumb.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;&lt;p&gt;Original URL: https://www.demorgen.be/beter-leven/liesbeth-van-impe-verloor-in-2024-de-man-die-er-altijd-was-voor-haar-ik-ben-de-laatste-jaren-goed-geworden-in-rouwen~be604c38/&lt;/p&gt;&lt;p&gt;Archived on: 28 Dec 2024 08:44&lt;/p&gt;&lt;p&gt;&lt;a href="https://archive.is/GLsnj"&gt;View archived version&lt;/a&gt;&lt;/p&gt;</description>
-      <pubDate>Sat, 28 Dec 2024 16:19:22 +0100</pubDate>
-    </item>
-    <item>
-      <title>Witte Huis: dodentol Noord-Koreaanse soldaten veel hoger dan eerst ingeschat, loopt tot in de duizenden | De Morgen</title>
-      <link>https://archive.is/ZwFt5</link>
-      <description>&lt;img src="https://archive.ishttps://archive.is/ZwFt5/35fe0b17b046b7b15cb79e224679b141ee43c08c/thumb.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;&lt;p&gt;Original URL: https://www.demorgen.be/cs-b30d6623/&lt;/p&gt;&lt;p&gt;Archived on: 28 Dec 2024 09:40&lt;/p&gt;&lt;p&gt;&lt;a href="https://archive.is/ZwFt5"&gt;View archived version&lt;/a&gt;&lt;/p&gt;</description>
-      <pubDate>Sat, 28 Dec 2024 16:19:22 +0100</pubDate>
-    </item>
-    <item>
-      <title>Studio Stoutpoep | De Morgen</title>
-      <link>https://archive.is/vs9lW</link>
-      <description>&lt;img src="https://archive.ishttps://archive.is/qIPzK/0eaf941e719dbc848bfdc521a8e62cc9f9bedaa4/thumb.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;&lt;p&gt;Original URL: https://www.demorgen.be/meningen/studio-stoutpoep~b37863c0/&lt;/p&gt;&lt;p&gt;Archived on: 16 Sep 2024 10:23&lt;/p&gt;&lt;p&gt;&lt;a href="https://archive.is/vs9lW"&gt;View archived version&lt;/a&gt;&lt;/p&gt;</description>
-      <pubDate>Sat, 28 Dec 2024 16:19:22 +0100</pubDate>
-    </item>
-    <item>
-      <title>Naar deze adressen keren onze foodcritics graag terug: ‘Haar plantaardige keuken overtuigde sjeiks en sterren’ | De Morgen</title>
-      <link>https://archive.is/aZA3R</link>
-      <description>&lt;img src="https://archive.ishttps://archive.is/aZA3R/6942bc8d21833164ce6f5f7f2dc685f2ddd14bee/thumb.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;&lt;p&gt;Original URL: https://www.demorgen.be/cs-bffed777/&lt;/p&gt;&lt;p&gt;Archived on: 28 Dec 2024 10:11&lt;/p&gt;&lt;p&gt;&lt;a href="https://archive.is/aZA3R"&gt;View archived version&lt;/a&gt;&lt;/p&gt;</description>
-      <pubDate>Sat, 28 Dec 2024 16:19:22 +0100</pubDate>
-    </item>
-    <item>
-      <title>Ruzie in kamp-Trump: MAGA-supporters botsen met techgiganten over migratiebeleid | De Morgen</title>
-      <link>https://archive.is/3sQee</link>
-      <description>&lt;img src="https://archive.ishttps://archive.is/3sQee/55072c854ac115b5382e7ad86fd4c54d524e81ac/thumb.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;&lt;p&gt;Original URL: https://www.demorgen.be/amerikaanse-verkiezingen/ruzie-in-kamp-trump-maga-supporters-botsen-met-techgiganten-over-migratiebeleid~bb87b0ee/&lt;/p&gt;&lt;p&gt;Archived on: 28 Dec 2024 10:48&lt;/p&gt;&lt;p&gt;&lt;a href="https://archive.is/3sQee"&gt;View archived version&lt;/a&gt;&lt;/p&gt;</description>
-      <pubDate>Sat, 28 Dec 2024 16:19:22 +0100</pubDate>
-    </item>
-    <item>
-      <title>Elon Musk versus MAGA? Ruzie in Trump-kamp over hoogopgeleide immigranten: ‘Amerikaanse cultuur brengt niet de beste ingenieurs’ | De Morgen</title>
-      <link>https://archive.is/8r1wV</link>
-      <description>&lt;img src="https://archive.ishttps://archive.is/8r1wV/3ddbbd87b9ba6fd06b12f77bd57cbfb3d3952f7d/thumb.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;&lt;p&gt;Original URL: https://www.demorgen.be/amerikaanse-verkiezingen/elon-musk-versus-maga-ruzie-in-trump-kamp-over-hoogopgeleide-immigranten-amerikaanse-cultuur-brengt-niet-de-beste-ingenieurs~bb87b0ee/&lt;/p&gt;&lt;p&gt;Archived on: 28 Dec 2024 11:30&lt;/p&gt;&lt;p&gt;&lt;a href="https://archive.is/8r1wV"&gt;View archived version&lt;/a&gt;&lt;/p&gt;</description>
-      <pubDate>Sat, 28 Dec 2024 16:19:22 +0100</pubDate>
-    </item>
-    <item>
-      <title>Liverpool zet jaarlijks 713 miljoen euro om en rijdt zoals alle voetbalclubs de gaten dicht met mensenhandel | De Morgen</title>
-      <link>https://archive.is/ZDK6i</link>
-      <description>&lt;img src="https://archive.ishttps://archive.is/ZDK6i/d160e2e201389fe9cb70bd7de3ad30d9979711d6/thumb.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;&lt;p&gt;Original URL: https://www.demorgen.be/meningen/liverpool-zet-jaarlijks-713-miljoen-euro-om-en-rijdt-zoals-alle-voetbalclubs-de-gaten-dicht-met-mensenhandel~b77690b1/&lt;/p&gt;&lt;p&gt;Archived on: 28 Dec 2024 11:33&lt;/p&gt;&lt;p&gt;&lt;a href="https://archive.is/ZDK6i"&gt;View archived version&lt;/a&gt;&lt;/p&gt;</description>
-      <pubDate>Sat, 28 Dec 2024 16:19:22 +0100</pubDate>
-    </item>
-    <item>
-      <title>Waarom heb je soms last van een plotse bloedneus? | De Morgen</title>
-      <link>https://archive.is/Xy9Ur</link>
-      <description>&lt;img src="https://archive.ishttps://archive.is/Xy9Ur/b3af380d4d84c0ac8ee925118886e41a637be952/thumb.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;&lt;p&gt;Original URL: https://www.demorgen.be/beter-leven/waarom-heb-je-soms-last-van-een-plotse-bloedneus~b98337bd/&lt;/p&gt;&lt;p&gt;Archived on: 28 Dec 2024 12:53&lt;/p&gt;&lt;p&gt;&lt;a href="https://archive.is/Xy9Ur"&gt;View archived version&lt;/a&gt;&lt;/p&gt;</description>
-      <pubDate>Sat, 28 Dec 2024 16:19:22 +0100</pubDate>
-    </item>
-    <item>
-      <title>Vindt Vlaanderen het in ‘BDW politiek beest’ vertoonde normaal? Want ik krijg het niet verteerd | De Morgen</title>
-      <link>https://archive.is/OqoWm</link>
-      <description>&lt;img src="https://archive.ishttps://archive.is/OqoWm/306bde71a145d523068e7358ec3916a97d96cc65/thumb.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;&lt;p&gt;Original URL: https://www.demorgen.be/cs-b8d785f5/&lt;/p&gt;&lt;p&gt;Archived on: 28 Dec 2024 13:03&lt;/p&gt;&lt;p&gt;&lt;a href="https://archive.is/OqoWm"&gt;View archived version&lt;/a&gt;&lt;/p&gt;</description>
-      <pubDate>Sat, 28 Dec 2024 16:19:22 +0100</pubDate>
-    </item>
-    <item>
-      <title>‘Ik wil niet mijn volledige identiteit halen uit de job die ik heb’: Els van Doesburg over haar baby en het burgemeesterschap in Antwerpen | De Morgen</title>
-      <link>https://archive.is/RD3Fp</link>
-      <description>&lt;img src="https://archive.ishttps://archive.is/RD3Fp/07a4a2d2173f782141b2daabf93e57890e8e69ea/thumb.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;&lt;p&gt;Original URL: https://www.demorgen.be/cs-b6a85e4e/&lt;/p&gt;&lt;p&gt;Archived on: 28 Dec 2024 14:31&lt;/p&gt;&lt;p&gt;&lt;a href="https://archive.is/RD3Fp"&gt;View archived version&lt;/a&gt;&lt;/p&gt;</description>
-      <pubDate>Sat, 28 Dec 2024 16:19:22 +0100</pubDate>
-    </item>
-    <item>
-      <title>Nieuws | De Morgen</title>
+      <title>Nieuws</title>
       <link>https://archive.is/z6w9e</link>
-      <description>&lt;img src="https://archive.ishttps://archive.is/iM3U6/d991d14ac9c80bf51ffb4f4ce27cc41e00143fd8/thumb.png" style="max-width:100%;margin-bottom:10px;"&gt;&lt;br&gt;&lt;p&gt;Original URL: https://www.demorgen.be/&lt;/p&gt;&lt;p&gt;Archived on: 3 Sep 2024 11:56&lt;/p&gt;&lt;p&gt;&lt;a href="https://archive.is/z6w9e"&gt;View archived version&lt;/a&gt;&lt;/p&gt;</description>
-      <pubDate>Sat, 28 Dec 2024 16:19:22 +0100</pubDate>
+      <description>https://demorgen.be/</description>
+      <enclosure url="https://archive.is/qaEAb/da3784b038b7923fe6501020dc38f9ae74157c20/thumb.png" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 27 Apr 2024 04:14:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Grootouders zonder kleinkinderen: ‘We beseffen dat we vrijer zijn, maar het gemis blijft wringen’</title>
+      <link>https://archive.is/8J5sK</link>
+      <description>https://demorgen.be/beter-leven/het-gemis-dat-blijft-knagen-ik-ga-nooit-oma-worden-maar-dat-oude-speelgoed-blijft-op-zolder-staan~bf565e11/</description>
+      <enclosure url="https://archive.is/8J5sK/ee0c10cbb3b19ea5d9a1cac98d6c957a9590608f/thumb.png" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 24 Nov 2024 13:37:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>‘Mijn affaire zorgde voor een erotische renaissance binnen mijn lange relatie’</title>
+      <link>https://archive.is/08rfk</link>
+      <description>https://demorgen.be/beter-leven/mijn-affaire-zorgde-voor-een-erotische-renaissance-binnen-mijn-lange-relatie~b73847d5/</description>
+      <enclosure url="https://archive.is/08rfk/e8c1475cdfce27cef1d5e6ae2ce45c5d16e5278e/thumb.png" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 24 Nov 2024 19:41:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Apothekers bevelen homeopathische middeltjes aan: mag dat wel?</title>
+      <link>https://archive.is/Kq5uM</link>
+      <description>https://demorgen.be/beter-leven/apothekers-bevelen-homeopathische-middeltjes-aan-mag-dat-wel~bf722b82/</description>
+      <enclosure url="https://archive.is/Kq5uM/ac1e69f2bebfb3822f534eb9fd2e8499bd0b87a7/thumb.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 26 Nov 2024 14:17:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Een blaasontsteking kan flinke impact hebben: hoe voorkom je zo’n infectie?</title>
+      <link>https://archive.is/fHLYA</link>
+      <description>https://demorgen.be/beter-leven/een-blaasontsteking-kan-flinke-impact-hebben-hoe-voorkom-je-zo-n-infectie~b9e83da1/</description>
+      <enclosure url="https://archive.is/fHLYA/6f54c6c2da195d5d26ab4077493ac1f4735a5809/thumb.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 03 Dec 2024 16:37:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Over het kluwen dat Syrië is, moet u eigenlijk maar één ding weten: Assad is het grote kwaad</title>
+      <link>https://archive.is/Z0lZF</link>
+      <description>https://demorgen.be/meningen/over-het-kluwen-dat-syrie-is-moet-u-eigenlijk-maar-een-ding-weten-assad-is-het-grote-kwaad~bac45562/</description>
+      <enclosure url="https://archive.is/Z0lZF/32dc84e635010f267f48375c1a4e9457c9a69142/thumb.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 06 Dec 2024 11:26:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Diëtist Michaël Sels uit ‘De grote boodschap’: ‘Mensen lopen soms jaren met diarree rond’</title>
+      <link>https://archive.is/DXDNt</link>
+      <description>https://demorgen.be/beter-leven/dietist-michael-sels-uit-de-grote-boodschap-mensen-lopen-soms-jaren-met-diarree-rond~bec39dfa/</description>
+      <enclosure url="https://archive.is/DXDNt/488c0dd437346824be4bb9e6fa0fe1294827b8cb/thumb.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 09 Dec 2024 06:49:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Lager leefloon met ‘voedselcheques’ ligt op tafel van De Wever</title>
+      <link>https://archive.is/8HR3O</link>
+      <description>https://demorgen.be/nieuws/lager-leefloon-met-voedselcheques-ligt-op-tafel-van-de-wever~b1881539/</description>
+      <enclosure url="https://archive.is/8HR3O/2c4d7231dab8c99465d33cb2c66873300230f8fe/thumb.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 10 Dec 2024 09:15:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Wat is er gaande in Zuid-Korea? ‘De tegenstanders van president Yoon stonden op het punt hem een zware slag toe te brengen’</title>
+      <link>https://archive.is/xQ3bg</link>
+      <description>https://demorgen.be/nieuws/wat-is-er-gaande-in-zuid-korea-de-tegenstanders-van-president-yoon-stonden-op-het-punt-hem-een-zware-slag-toe-te-brengen~b068f9d9/</description>
+      <enclosure url="https://archive.is/xQ3bg/3f59693cec2d2447a363fc004a3615b8a7ffa37a/thumb.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 12 Dec 2024 13:14:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>‘Ik vrees dat alle menslievende mechanismen die we hebben opgebouwd op de helling staan’</title>
+      <link>https://archive.is/EJtZK</link>
+      <description>https://demorgen.be/nieuws/ik-vrees-dat-alle-menslievende-mechanismen-die-we-hebben-opgebouwd-op-de-helling-staan~bda06787/</description>
+      <enclosure url="https://archive.is/EJtZK/1e54e645c2d0384e7001da5c0fc665894843dce1/thumb.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 16 Dec 2024 10:21:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Help, ik kan de familie van mijn partner niet uitstaan: ‘Vorig jaar was ik niet eens welkom’</title>
+      <link>https://archive.is/8wd1p</link>
+      <description>https://demorgen.be/beter-leven/help-ik-kan-de-familie-van-mijn-partner-niet-uitstaan-vorig-jaar-was-ik-niet-eens-welkom~ba1df57d7/</description>
+      <enclosure url="https://archive.is/8wd1p/34faa6c03e149f70f6cc8b1109dc3a8967bacd08/thumb.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 18 Dec 2024 11:27:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Dit zijn de 20 beste albums van 2024 volgens De Morgen</title>
+      <link>https://archive.is/eARLt</link>
+      <description>https://demorgen.be/tv-cultuur/dit-zijn-de-20-beste-albums-van-2024-volgens-de-morgen~bda4f3e9/</description>
+      <enclosure url="https://archive.is/eARLt/a9582d319247de1c80f240d77ddab837dac1484a/thumb.png" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 19 Dec 2024 15:19:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>‘Voorstellen als dit komen uit de mond van iemand die 10.000 euro per maand verdient’: sociale huurders aan het woord</title>
+      <link>https://archive.is/p3f0u</link>
+      <description>https://demorgen.be/nieuws/voorstellen-als-dit-komen-uit-de-mond-van-iemand-die-10-000-euro-per-maand-verdient-sociale-huurders-aan-het-woord~bc5d9cda/</description>
+      <enclosure url="https://archive.is/p3f0u/da836f83367fdea0370ac508c4e7e1d41000dd63/thumb.png" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 21 Dec 2024 15:08:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Noord-Koreaanse overlopers waarschuwen: ‘Het maakt hen echt niet uit hoeveel soldaten er sneuvelen in Koersk’</title>
+      <link>https://archive.is/52MkN</link>
+      <description>https://demorgen.be/nieuws/noord-koreaanse-overlopers-waarschuwen-het-maakt-hen-echt-niet-uit-hoeveel-soldaten-er-sneuvelen-in-koersk~b4667191</description>
+      <enclosure url="https://archive.is/52MkN/5a68fd79429edd70b5e9227a445807001785b4be/thumb.png" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 23 Dec 2024 07:29:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Na de expliciete steun voor radicaal-rechts in Europa: ‘Dat Musk X voor zijn eigen politieke mening inzet is gevaarlijk’</title>
+      <link>https://archive.is/ITSRH</link>
+      <description>https://demorgen.be/nieuws/na-de-expliciete-steun-voor-radicaal-rechts-in-europa-dat-musk-x-voor-zijn-eigen-politieke-mening-inzet-is-gevaarlijk~bb1fe9c2/</description>
+      <enclosure url="https://archive.is/ITSRH/8a42ec45f63036ab88e609924fa2e8f8652f7176/thumb.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 24 Dec 2024 15:21:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Trump aast op Canada, Groenland en Panama: wat zit er achter zijn uitspraken?</title>
+      <link>https://archive.is/2AYu0</link>
+      <description>https://demorgen.be/nieuws/trump-aast-op-canada-groenland-en-panama-wat-zit-er-achter-zijn-uitspraken~bbeae806/</description>
+      <enclosure url="https://archive.is/2AYu0/ccb1178efa0ebf0dd63c94d4af2625c8fcab16b4/thumb.png" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 25 Dec 2024 14:09:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>‘Als Trump echt meer olie gaat oppompen, is het binnen een maand gedaan met Poetin’: Selien De Schryder en Koen Schoors maken de staat op van de economie</title>
+      <link>https://archive.is/4fmmE</link>
+      <description>https://demorgen.be/nieuws/als-trump-echt-meer-olie-gaat-oppompen-is-het-binnen-een-maand-gedaan-met-poetin-selien-de-schryder-en-koen-schoors-maken-de-staat-op-van-de-economie~b3451420/</description>
+      <enclosure url="https://archive.is/4fmmE/5ebc02451f666807874e2f2b59fd7faf35dd65a7/thumb.png" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 27 Dec 2024 15:21:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>‘Het blijft heerlijk walgen van de elite in ‘Knokke Off’’: lees de recap van aflevering 4</title>
+      <link>https://archive.is/crFJC</link>
+      <description>https://demorgen.be/tv-cultuur/het-blijft-heerlijk-walgen-van-de-elite-in-knokke-off-lees-de-recap-van-aflevering-4~b3b452b6/</description>
+      <enclosure url="https://archive.is/crFJC/bf081bc9bc44a4ed5b85decb70ee0c7336977b4f/thumb.png" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 28 Dec 2024 07:59:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Geselecteerde uitvinders bakken zoete broodjes met hun ideeën</title>
+      <link>https://archive.is/Y8nF3</link>
+      <description>https://demorgen.be/nieuws/geselecteerde-uitvinders-bakken-zoete-broodjes-met-hun-ideeen~b5aef88b/</description>
+      <enclosure url="https://archive.is/Y8nF3/3a6cccb6c52575ddb346e2399a706d28e9f875eb/thumb.png" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 28 Dec 2024 17:06:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
